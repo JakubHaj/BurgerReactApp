@@ -1,6 +1,7 @@
 # BurgerApp
 
 App to order burgers using React, Redux.
+
 Created as a part of a Udemy course.
 
 ## Install
